@@ -15,13 +15,13 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/kadir-şehmus-arslan-29716420a" target="blank">
+  <a href="www.linkedin.com/in/kadir-şehmus-arslan-29716420a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@byego1174" target="blank">
+  <a href="https://www.youtube.com/@byego1174" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/_kadirarsln/profilecard/?igsh=MXc3aHR4ejVhcGd4bQ%3D%3D" target="blank">
+  <a href="https://www.instagram.com/_kadirarsln/profilecard/?igsh=MXc3aHR4ejVhcGd4bQ%3D%3D" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/arslnkadir" target="_blank">
